@@ -16,6 +16,6 @@ venv/
 # Jupyter
 .ipynb_checkpoints/
 
-# Outputs (optional: include if you don’t want to push them)
+# Outputs
 outputs/*.pdf
 outputs/*.csv
